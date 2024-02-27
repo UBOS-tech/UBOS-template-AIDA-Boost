@@ -1,0 +1,8 @@
+[submodule "UBOS-template-AIDA-Boost-ui"]
+	path = UBOS-template-AIDA-Boost-ui
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-AIDA-Boost-ui.git
+	branch = main
+[submodule "UBOS-template-AIDA-Boost-nr"]
+	path = UBOS-template-AIDA-Boost-nr
+	url = https://github.com/UBOS-Asset-Store/UBOS-template-AIDA-Boost-nr.git
+	branch = origin
